@@ -1,3 +1,5 @@
+自己練習用 React fuctional component 做的練習
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
