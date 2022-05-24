@@ -16,10 +16,11 @@ function App() {
     });
   };
   return (
-    <div>
+    // 使用React.Fragment
+    <>
       <AddUser onAddUser={addUserHandler} />
       <UsersList users={usersList} />
-    </div>
+    </>
   );
 }
 
